@@ -7,4 +7,3 @@
 * `javadoc` for call code
 * Organize `playRound` in `Game`
 * Add `getSets() : List<Set>` and `Set` to optimize the game play
-* 
