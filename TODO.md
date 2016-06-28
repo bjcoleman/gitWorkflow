@@ -1,4 +1,3 @@
-
 * Format for IntelliJ project
 * Change from custom linked list to `LinkedList<Card>`
 * Change the `isSet` method in `Card` to a static method
